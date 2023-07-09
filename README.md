@@ -5,7 +5,8 @@ The code is run in python 3.7 in Jupyter Notebook.
 The two required .csv files are included in the folder. You only have to change the path in the cell 5 and 6
 (df_outd = pd.read_csv("/Users/irismanola/Documents/ML/Source_Assignment/Weather.csv")
 and
-df_ind = pd.read_csv("/Users/irismanola/Documents/ML/Source_Assignment/GreenhouseClimate.csv"))
+df_ind = pd.read_csv("/Users/irismanola/Documents/ML/Source_Assignment/GreenhouseClimate.csv")).
+
 If new data should be imported this path needs to be changed.
 
 The steps followed in the assignement are the following:
