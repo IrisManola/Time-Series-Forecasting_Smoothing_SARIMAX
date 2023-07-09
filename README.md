@@ -21,3 +21,8 @@ The steps followed in the assignement are the following:
 The accuracy of the smoothing models is evaluated with the MSE metric.
 The accuracy of the SARIMA and SARIMAX models is evaluates with the MSE, RMSE, MAE and MAPE.
 The accuracy of the 4 models is compared using the MSE metric.
+
+
+Filenames:
+The Source_Assignment_Manola.ipynb is the Jupyter Notebook python script.
+The Source_Assignment_Manola.pdf is a copy of the notebook in a .pdf format.
